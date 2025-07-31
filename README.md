@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi!+I'm+Jhayr+Cervantes;Web+%26+Software+Developer;Photoshop+%7C+Vector+Artist;Loves+Problem+Solving+%26+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi!+I'm+Jhayr+Cervantes;Web+%26+Software+Developer;Photoshop+%7C+Video+Editor+%7C+Vector+Artist;Code.+Design.+Create." alt="Typing SVG" />
 </div>
 
 ---
 
 # 💻 Jhayr Cervantes
 
-## 🚀 Full-Stack Developer | Software Engineer | Creative Designer
+## 🚀 Full-Stack Developer | Software Engineer | Creative Designer | Video Editor
 
-Hey there! I'm Jhayr — a passionate developer and digital creative from the Philippines 🇵🇭. I specialize in building full-stack systems and crafting clean, user-focused designs. Whether it’s a complex backend system or a stunning vector artwork, I love bringing ideas to life through code and design.
+Hi there! I'm Jhayr — a passionate tech enthusiast and digital creator from the Philippines 🇵🇭. I build systems, craft vector art, and edit videos — all with the same creative energy. Whether coding or designing, I love turning ideas into digital experiences.
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🔭 Working on **dynamic PHP-based web systems & Java applications**
-- 🌱 Currently learning **advanced C/C++ and secure PHP practices**
-- 💡 Creating vector art in **Photoshop**
-- 💬 Ask me about: `Web Dev`, `Java GUI`, `C/C++`, `PHP`, or `Photoshop`
-- 👯 Open to: **collabs on creative + functional projects**
+- 🔭 Building **dynamic PHP-based systems, Java apps, and full-stack projects**
+- 🌱 Diving deeper into **systems programming (C/C++) and database optimization**
+- 🎨 Designing vector art and UI mockups using **Photoshop & Illustrator**
+- 🎬 Editing videos with **Filmora and CapCut**
+- 💬 Ask me about: `Web Dev`, `Java GUI`, `C/C++`, `PHP`, `SQL`, or `Design`
 - 📫 Reach me at: **jhayrcervantes0981@gmail.com**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech & Creative Stack
 
 ### 💡 Programming Languages
 
@@ -39,6 +39,15 @@ Hey there! I'm Jhayr — a passionate developer and digital creative from the Ph
 
 </div>
 
+### 🗃️ Databases
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
+
 ### 🧰 Tools & Frameworks
 
 <div align="center">
@@ -47,8 +56,17 @@ Hey there! I'm Jhayr — a passionate developer and digital creative from the Ph
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+### 🎨 Design & Video Editing
+
+<div align="center">
+
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Vector%20Art-FF6F61?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Filmora](https://img.shields.io/badge/-Filmora-0A9EDC?style=for-the-badge&logo=filmora&logoColor=white)
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 </div>
 
@@ -67,10 +85,10 @@ Hey there! I'm Jhayr — a passionate developer and digital creative from the Ph
 
 ## 🎯 Fun Fact
 
-> I debug like a detective 🕵️ — following every clue until the bug confesses 😎.
+> I debug like a detective 🕵️ — tracing every line until the bug gives up.
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
 </div>
