@@ -5,18 +5,18 @@
 
 ---
 
-# 💻 Jhayr Cervantes
+# :computer: Jhayr Cervantes
 
-## 🚀 Developer | Designer | Creator
+## :rocket: Developer | Designer | Creator
 
-Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designing images, and editing videos. I enjoy turning ideas into real projects — whether it's code or design.
+Hi! I'm **Jhayr** from the Philippines :philippines:. I like making software, designing images, and editing videos. I enjoy turning ideas into real projects — whether it's code or design.
 
 ---
 
-## 📜 Certificates
+## :memo: Certificates
 
 <details>
-  <summary><strong>📂 Click here to explore my certificates</strong></summary>
+  <summary><strong>:file_folder: Click here to explore my certificates</strong></summary>
   <br/>
 
   <div align="center">
@@ -96,20 +96,20 @@ Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designi
 
 ---
 
-## 👨‍💻 About Me
+## :bust_in_silhouette: About Me
 
-- 🔭 Building **dynamic PHP-based systems, Java apps, and full-stack projects**
-- 🌱 Diving deeper into **C/C++ systems programming** and **SQL tuning**
-- 🎨 Crafting vector art and UI mockups with **Photoshop & Illustrator**
-- 🎬 Editing cinematic shorts using **Filmora and CapCut**
-- 💬 Ask me about: `Web Dev`, `Java GUI`, `PHP`, `C/C++`, `SQL`, or `UI Design`
-- 📫 Let's collaborate: **jhayrcervantes0981@gmail.com**
+- :computer: Building **dynamic PHP-based systems, Java apps, and full-stack projects**
+- :seedling: Diving deeper into **C/C++ systems programming** and **SQL tuning**
+- :art: Crafting vector art and UI mockups with **Photoshop & Illustrator**
+- :clapper: Editing cinematic shorts using **Filmora and CapCut**
+- :speech_balloon: Ask me about: `Web Dev`, `Java GUI`, `PHP`, `C/C++`, `SQL`, or `UI Design`
+- :email: Let's collaborate: **jhayrcervantes0981@gmail.com**
 
 ---
 
-## 🛠️ Tech & Creative Stack
+## :toolbox: Tech & Creative Stack
 
-### 💡 Programming Languages
+### :desktop_computer: Programming Languages
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designi
 
 </div>
 
-### 🗃️ Databases
+### :card_index_dividers: Databases
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designi
 
 </div>
 
-### 🧰 Tools & Frameworks
+### :wrench: Tools & Frameworks
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designi
 
 </div>
 
-### 🎨 Design & Video Editing
+### :artist: Design & Video Editing
 
 <div align="center">
 
@@ -156,7 +156,7 @@ Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designi
 
 ---
 
-## 📊 GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div align="center">
 
@@ -167,9 +167,9 @@ Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designi
 
 ---
 
-## 🎯 Fun Fact
+## :bulb: Fun Fact
 
-> I debug like a detective 🕵️ — tracing every line until the bug gives up.
+> I debug like a detective :mag: — tracing every line until the bug gives up.
 
 ---
 
