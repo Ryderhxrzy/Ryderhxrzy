@@ -1,25 +1,109 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Jhayr+Cervantes;Web+%26+Software+Developer;Photoshop+%7C+Video+Editor+%7C+Vector+Artist;Code.+Design.+Create." alt="Typing SVG" />
+<!-- Typing Header -->
+<div align="center" style="width: 1000px; margin: auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Jhayr+Cervantes;Full-Stack+Developer+%7C+Software+Engineer;Photoshop+%7C+Video+Editor+%7C+Creative+Technologist;Code.+Design.+Innovate." alt="Typing SVG" />
 </div>
 
 ---
 
 # 💻 Jhayr Cervantes
 
-## 🚀 Full-Stack Developer | Software Engineer | Creative Designer | Video Editor
+## 🚀 Developer | Designer | Creator
 
-Hi there! I'm Jhayr — a passionate tech enthusiast and digital creator from the Philippines 🇵🇭. I build systems, craft vector art, and edit videos — all with the same creative energy. Whether coding or designing, I love turning ideas into digital experiences.
+Hi! I'm **Jhayr** from the Philippines 🇵🇭. I like making software, designing images, and editing videos. I enjoy turning ideas into real projects — whether it's code or design.
+
+---
+
+## 📜 Certificates
+
+<details>
+  <summary><strong>📂 Click here to explore my certificates</strong></summary>
+  <br/>
+
+  <div align="center">
+    <table>
+      <tr>
+        <!-- Row 1 -->
+        <td align="center">
+          <a href="Artificial Intelligence.png" target="_blank">
+            <img src="Artificial Intelligence.png" width="150" height="100" title="AI Tech Trends - Jan 25, 2023"/>
+          </a><br><sub><b>AI Tech Trends</b></sub>
+        </td>
+        <td align="center">
+          <a href="Chatgpt.png" target="_blank">
+            <img src="Chatgpt.png" width="150" height="100" title="Using ChatGPT - Jan 29, 2023"/>
+          </a><br><sub><b>Using ChatGPT</b></sub>
+        </td>
+        <td align="center">
+          <a href="Cybersecurity Awareness.png" target="_blank">
+            <img src="Cybersecurity Awareness.png" width="150" height="100" title="Cybersecurity Awareness - Jan 20, 2023"/>
+          </a><br><sub><b>Cybersecurity</b></sub>
+        </td>
+        <td align="center">
+          <a href="Google Data.png" target="_blank">
+            <img src="Google Data.png" width="150" height="100" title="Data Everywhere - Jan 8, 2023"/>
+          </a><br><sub><b>Google Data</b></sub>
+        </td>
+      </tr>
+      <tr>
+        <!-- Row 2 -->
+        <td align="center">
+          <a href="Laravel Framework.png" target="_blank">
+            <img src="Laravel Framework.png" width="150" height="100" title="Laravel Framework - Nov 7-9, 2022"/>
+          </a><br><sub><b>Laravel Basics</b></sub>
+        </td>
+        <td align="center">
+          <a href="Malicious Software.png" target="_blank">
+            <img src="Malicious Software.png" width="150" height="100" title="Cyber Talks - Nov 10, 2022"/>
+          </a><br><sub><b>Cyber Talks</b></sub>
+        </td>
+        <td align="center">
+          <a href="PC Formatting.png" target="_blank">
+            <img src="PC Formatting.png" width="150" height="100" title="PC Formatting - Jan 13, 2023"/>
+          </a><br><sub><b>PC Formatting</b></sub>
+        </td>
+        <td align="center">
+          <a href="Php OOP.png" target="_blank">
+            <img src="Php OOP.png" width="150" height="100" title="PHP OOP - Nov 2-4, 2022"/>
+          </a><br><sub><b>PHP OOP</b></sub>
+        </td>
+      </tr>
+      <tr>
+        <!-- Row 3 -->
+        <td align="center">
+          <a href="Portfolio with AWS.png" target="_blank">
+            <img src="Portfolio with AWS.png" width="150" height="100" title="AWS Portfolio - Nov 10, 2022"/>
+          </a><br><sub><b>AWS Portfolio</b></sub>
+        </td>
+        <td align="center">
+          <a href="Python Fundamentals.png" target="_blank">
+            <img src="Python Fundamentals.png" width="150" height="100" title="Python Fundamentals - Nov 23-25, 2022"/>
+          </a><br><sub><b>Python Basics</b></sub>
+        </td>
+        <td align="center">
+          <a href="Skill Up 2022.png" target="_blank">
+            <img src="Skill Up 2022.png" width="150" height="100" title="Google Sheets & Data Automation - Nov 5, 2022"/>
+          </a><br><sub><b>Google Sheets</b></sub>
+        </td>
+        <td align="center">
+          <a href="Software Engineering.png" target="_blank">
+            <img src="Software Engineering.png" width="150" height="100" title="Intermediate Software Engineering - Feb 9, 2023"/>
+          </a><br><sub><b>Software Engineering</b></sub>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 Building **dynamic PHP-based systems, Java apps, and full-stack projects**
-- 🌱 Diving deeper into **systems programming (C/C++) and database optimization**
-- 🎨 Designing vector art and UI mockups using **Photoshop & Illustrator**
-- 🎬 Editing videos with **Filmora and CapCut**
-- 💬 Ask me about: `Web Dev`, `Java GUI`, `C/C++`, `PHP`, `SQL`, or `Design`
-- 📫 Reach me at: **jhayrcervantes0981@gmail.com**
+- 🌱 Diving deeper into **C/C++ systems programming** and **SQL tuning**
+- 🎨 Crafting vector art and UI mockups with **Photoshop & Illustrator**
+- 🎬 Editing cinematic shorts using **Filmora and CapCut**
+- 💬 Ask me about: `Web Dev`, `Java GUI`, `PHP`, `C/C++`, `SQL`, or `UI Design`
+- 📫 Let's collaborate: **jhayrcervantes0981@gmail.com**
 
 ---
 
