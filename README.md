@@ -96,6 +96,18 @@ Hi! I'm **Jhayr** from the Philippines :philippines:. I like making software, de
 
 ---
 
+
+## :bust_in_silhouette: About Me
+
+- :computer: Building **dynamic PHP-based systems, Java apps, and full-stack projects**
+- :seedling: Diving deeper into **C/C++ systems programming** and **SQL tuning**
+- :art: Crafting vector art and UI mockups with **Photoshop & Illustrator**
+- :clapper: Editing cinematic shorts using **Filmora and CapCut**
+- :speech_balloon: Ask me about: `Web Dev`, `Java GUI`, `PHP`, `C/C++`, `SQL`, or `UI Design`
+- :email: Let's collaborate: **jhayrcervantes0981@gmail.com**
+
+---
+
 ## :memo: Vector Art
 <details>
   <summary><strong>:file_folder: Click here to explore my certificates</strong></summary>
@@ -178,16 +190,6 @@ Hi! I'm **Jhayr** from the Philippines :philippines:. I like making software, de
 
 ---
 
-## :bust_in_silhouette: About Me
-
-- :computer: Building **dynamic PHP-based systems, Java apps, and full-stack projects**
-- :seedling: Diving deeper into **C/C++ systems programming** and **SQL tuning**
-- :art: Crafting vector art and UI mockups with **Photoshop & Illustrator**
-- :clapper: Editing cinematic shorts using **Filmora and CapCut**
-- :speech_balloon: Ask me about: `Web Dev`, `Java GUI`, `PHP`, `C/C++`, `SQL`, or `UI Design`
-- :email: Let's collaborate: **jhayrcervantes0981@gmail.com**
-
----
 
 ## :toolbox: Tech & Creative Stack
 
