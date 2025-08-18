@@ -96,6 +96,85 @@ Hi! I'm **Jhayr** from the Philippines :philippines:. I like making software, de
 
 ---
 
+<details>
+  <summary><strong>:file_folder: Click here to explore my certificates</strong></summary>
+  <br/>
+
+  <div align="center">
+    <table>
+      <tr>
+        <!-- Row 1 -->
+        <td align="center">
+          <a href="Artificial Intelligence.png" target="_blank">
+            <img src="Artificial Intelligence.png" width="150" height="100" title="AI Tech Trends - Jan 25, 2023"/>
+          </a><br><sub><b>AI Tech Trends</b></sub>
+        </td>
+        <td align="center">
+          <a href="Chatgpt.png" target="_blank">
+            <img src="Chatgpt.png" width="150" height="100" title="Using ChatGPT - Jan 29, 2023"/>
+          </a><br><sub><b>Using ChatGPT</b></sub>
+        </td>
+        <td align="center">
+          <a href="Cybersecurity Awareness.png" target="_blank">
+            <img src="Cybersecurity Awareness.png" width="150" height="100" title="Cybersecurity Awareness - Jan 20, 2023"/>
+          </a><br><sub><b>Cybersecurity</b></sub>
+        </td>
+        <td align="center">
+          <a href="Google Data.png" target="_blank">
+            <img src="Google Data.png" width="150" height="100" title="Data Everywhere - Jan 8, 2023"/>
+          </a><br><sub><b>Google Data</b></sub>
+        </td>
+      </tr>
+      <tr>
+        <!-- Row 2 -->
+        <td align="center">
+          <a href="Laravel Framework.png" target="_blank">
+            <img src="Laravel Framework.png" width="150" height="100" title="Laravel Framework - Nov 7-9, 2022"/>
+          </a><br><sub><b>Laravel Basics</b></sub>
+        </td>
+        <td align="center">
+          <a href="Malicious Software.png" target="_blank">
+            <img src="Malicious Software.png" width="150" height="100" title="Cyber Talks - Nov 10, 2022"/>
+          </a><br><sub><b>Cyber Talks</b></sub>
+        </td>
+        <td align="center">
+          <a href="PC Formatting.png" target="_blank">
+            <img src="PC Formatting.png" width="150" height="100" title="PC Formatting - Jan 13, 2023"/>
+          </a><br><sub><b>PC Formatting</b></sub>
+        </td>
+        <td align="center">
+          <a href="Php OOP.png" target="_blank">
+            <img src="Php OOP.png" width="150" height="100" title="PHP OOP - Nov 2-4, 2022"/>
+          </a><br><sub><b>PHP OOP</b></sub>
+        </td>
+      </tr>
+      <tr>
+        <!-- Row 3 -->
+        <td align="center">
+          <a href="Portfolio with AWS.png" target="_blank">
+            <img src="Portfolio with AWS.png" width="150" height="100" title="AWS Portfolio - Nov 10, 2022"/>
+          </a><br><sub><b>AWS Portfolio</b></sub>
+        </td>
+        <td align="center">
+          <a href="Python Fundamentals.png" target="_blank">
+            <img src="Python Fundamentals.png" width="150" height="100" title="Python Fundamentals - Nov 23-25, 2022"/>
+          </a><br><sub><b>Python Basics</b></sub>
+        </td>
+        <td align="center">
+          <a href="Skill Up 2022.png" target="_blank">
+            <img src="Skill Up 2022.png" width="150" height="100" title="Google Sheets & Data Automation - Nov 5, 2022"/>
+          </a><br><sub><b>Google Sheets</b></sub>
+        </td>
+        <td align="center">
+          <a href="Software Engineering.png" target="_blank">
+            <img src="Software Engineering.png" width="150" height="100" title="Intermediate Software Engineering - Feb 9, 2023"/>
+          </a><br><sub><b>Software Engineering</b></sub>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
 ## :bust_in_silhouette: About Me
 
 - :computer: Building **dynamic PHP-based systems, Java apps, and full-stack projects**
