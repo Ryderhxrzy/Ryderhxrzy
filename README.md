@@ -96,6 +96,7 @@ Hi! I'm **Jhayr** from the Philippines :philippines:. I like making software, de
 
 ---
 
+## :memo: Vector Art
 <details>
   <summary><strong>:file_folder: Click here to explore my certificates</strong></summary>
   <br/>
@@ -174,6 +175,8 @@ Hi! I'm **Jhayr** from the Philippines :philippines:. I like making software, de
     </table>
   </div>
 </details>
+
+---
 
 ## :bust_in_silhouette: About Me
 
