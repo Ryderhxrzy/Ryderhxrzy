@@ -108,9 +108,9 @@ Hi! I'm **Jhayr** from the Philippines :philippines:. I like making software, de
 
 ---
 
-## :memo: Vector Art
+## :art: Vector Art
 <details>
-  <summary><strong>:file_folder: Click here to explore my certificates</strong></summary>
+  <summary><strong>:file_folder: Click here to explore my Vector Art</strong></summary>
   <br/>
 
   <div align="center">
