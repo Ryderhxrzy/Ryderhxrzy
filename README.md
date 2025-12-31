@@ -3,101 +3,83 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Jhayr+Cervantes;Full-Stack+Developer+%7C+Software+Engineer;Photoshop+%7C+Video+Editor+%7C+Creative+Technologist;Code.+Design.+Innovate." alt="Typing SVG" />
 </div>
 
-<!-- Counters & Badges -->
+<!-- Profile Counters -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ryderhxrzy&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Ryderhxrzy&label=Profile%20Views&color=00BFFF&style=for-the-badge"/>
 
 <a href="https://github.com/Ryderhxrzy?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ryderhxrzy?label=Followers&style=for-the-badge&color=00BFFF" />
+  <img src="https://img.shields.io/github/followers/Ryderhxrzy?label=Followers&style=for-the-badge&color=00BFFF"/>
 </a>
 
 <a href="https://github.com/Ryderhxrzy">
-  <img src="https://img.shields.io/github/stars/Ryderhxrzy?label=Stars&style=for-the-badge&color=00BFFF" />
+  <img src="https://img.shields.io/github/stars/Ryderhxrzy?label=Stars&style=for-the-badge&color=00BFFF"/>
 </a>
 
 </div>
 
 ---
 
-# :computer: Jhayr Cervantes
+# 💻 Jhayr Cervantes
+## 🚀 Developer | Designer | Creator
 
-## :rocket: Developer | Designer | Creator
-
-Hi! I'm **Jhayr** from the Philippines :philippines:.  
-I enjoy building software, designing visuals, and editing videos — turning ideas into real-world solutions.
+Hi! I'm **Jhayr** from the Philippines 🇵🇭  
+I enjoy building systems, designing visuals, and editing videos — turning ideas into reality.
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ryderhxrzy&theme=radical&no-frame=false&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ryderhxrzy&theme=radical&row=1&column=7)
 
 </div>
 
 ---
 
-## :bar_chart: GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryderhxrzy&theme=radical&hide_border=false" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryderhxrzy&theme=radical" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical" height="160"/>
 
 </div>
 
 ---
 
-## :memo: Certificates
-<details>
-<summary><strong>:file_folder: Click here to explore my certificates</strong></summary>
-<br/>
+## 🐍 Contribution Snake
 
-<div align="center">
-<table>
-<tr>
-<td align="center"><img src="Artificial Intelligence.png" width="150"/><br><b>AI Tech Trends</b></td>
-<td align="center"><img src="Chatgpt.png" width="150"/><br><b>Using ChatGPT</b></td>
-<td align="center"><img src="Cybersecurity Awareness.png" width="150"/><br><b>Cybersecurity</b></td>
-<td align="center"><img src="Google Data.png" width="150"/><br><b>Google Data</b></td>
-</tr>
-<tr>
-<td align="center"><img src="Laravel Framework.png" width="150"/><br><b>Laravel</b></td>
-<td align="center"><img src="Malicious Software.png" width="150"/><br><b>Cyber Talks</b></td>
-<td align="center"><img src="PC Formatting.png" width="150"/><br><b>PC Formatting</b></td>
-<td align="center"><img src="Php OOP.png" width="150"/><br><b>PHP OOP</b></td>
-</tr>
-<tr>
-<td align="center"><img src="Portfolio with AWS.png" width="150"/><br><b>AWS</b></td>
-<td align="center"><img src="Python Fundamentals.png" width="150"/><br><b>Python</b></td>
-<td align="center"><img src="Skill Up 2022.png" width="150"/><br><b>Google Sheets</b></td>
-<td align="center"><img src="Software Engineering.png" width="150"/><br><b>Software Eng</b></td>
-</tr>
-</table>
-</div>
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ryderhxrzy/Ryderhxrzy/output/github-contribution-grid-snake-dark.svg">
+    <img
+      alt="Contribution Snake"
+      src="https://raw.githubusercontent.com/Ryderhxrzy/Ryderhxrzy/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-## :bust_in_silhouette: About Me
+## 👤 About Me
 
 - 💻 Building **PHP systems, Java apps, and full-stack projects**
-- 🌱 Learning **C/C++ systems programming & SQL tuning**
-- 🎨 UI / Vector Design with **Photoshop & Illustrator**
-- 🎬 Video editing using **Filmora & CapCut**
+- 🌱 Learning **C / C++ systems programming & SQL optimization**
+- 🎨 UI & vector design using **Photoshop & Illustrator**
+- 🎬 Video editing with **Filmora & CapCut**
 - 💬 Ask me about `PHP`, `Java`, `C/C++`, `SQL`, `UI Design`
 - 📧 **jhayrcervantes0981@gmail.com**
 
 ---
 
-## :toolbox: Tech & Creative Stack
+## 🧰 Tech & Creative Stack
 
 ### 💻 Programming Languages
 <div align="center">
@@ -132,7 +114,7 @@ I enjoy building software, designing visuals, and editing videos — turning ide
 
 ---
 
-## :bulb: Fun Fact
+## 💡 Fun Fact
 > I debug like a detective 🕵️ — every bug leaves clues.
 
 ---
