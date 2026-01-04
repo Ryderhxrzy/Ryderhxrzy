@@ -41,29 +41,19 @@ I enjoy building systems, designing visuals, and editing videos — turning idea
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400&v=1"
-  height="180"
-  alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=true" height="180"/>
 
-<img
-  src="https://streak-stats.demolab.com?user=Ryderhxrzy&theme=radical&hide_border=true&cache_seconds=86400&v=1"
-  height="180"
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=Ryderhxrzy&theme=radical&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=1"
-  height="160"
-  alt="Top Languages"
-/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=true" height="160"/>
 
 </div>
+
+
 
 ---
 
