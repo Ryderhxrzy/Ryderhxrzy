@@ -38,17 +38,30 @@ I enjoy building systems, designing visuals, and editing videos — turning idea
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400&v=1"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<img src="https://streak-stats.demolab.com?user=Ryderhxrzy&theme=radical&hide_border=true" height="180"/>
+<img
+  src="https://streak-stats.demolab.com?user=Ryderhxrzy&theme=radical&hide_border=true&cache_seconds=86400&v=1"
+  height="180"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=true" height="160"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=1"
+  height="160"
+  alt="Top Languages"
+/>
 
 </div>
 
