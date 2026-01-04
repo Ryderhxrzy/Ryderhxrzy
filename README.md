@@ -31,7 +31,7 @@ I enjoy building systems, designing visuals, and editing videos — turning idea
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ryderhxrzy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ryderhxrzy&theme=radical&no-frame=true&margin-w=8&row=1&column=6)
 
 </div>
 
@@ -40,15 +40,15 @@ I enjoy building systems, designing visuals, and editing videos — turning idea
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryderhxrzy&theme=radical&hide_border=false" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Ryderhxrzy&theme=radical&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=false&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=true" height="160"/>
 
 </div>
 
