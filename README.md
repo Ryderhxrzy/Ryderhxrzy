@@ -41,15 +41,7 @@ I enjoy building systems, designing visuals, and editing videos — turning idea
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryderhxrzy&show_icons=true&theme=radical&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=Ryderhxrzy&theme=radical&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryderhxrzy&layout=compact&theme=radical&hide_border=true" height="160"/>
+<img src="https://raw.githubusercontent.com/Ryderhxrzy/Ryderhxrzy/main/assets/stats.svg" alt="GitHub Stats"/>
 
 </div>
 
