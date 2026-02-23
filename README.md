@@ -1,8 +1,3 @@
-<!-- Header Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jhayr%20Cervantes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20Creator&descAlignY=52&descSize=16" width="100%"/>
-</div>
-
 <!-- Typing Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=Hi!+I'm+Jhayr+Cervantes+👋;Full-Stack+Developer+%7C+Software+Engineer;TypeScript+%7C+Next.js+%7C+React+%7C+Laravel;Node.js+%7C+NeonDB+%7C+PHP+%7C+Java;Code.+Design.+Innovate.+🚀" alt="Typing SVG" />
@@ -12,7 +7,7 @@
 
 <!-- Profile Counters -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryderhxrzy&label=Profile%20Views&color=00BFFF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Ryderhxrzy&label=Profile%20Views&color=00BFFF&style=for-the-badge&labelColor=0d1117"/>
   &nbsp;
   <a href="https://github.com/Ryderhxrzy?tab=followers">
     <img src="https://img.shields.io/github/followers/Ryderhxrzy?label=Followers&style=for-the-badge&color=00BFFF&labelColor=0d1117"/>
@@ -23,14 +18,12 @@
   </a>
 </div>
 
-<br/>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ryderhxrzy&theme=radical&no-frame=true&margin-w=8&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryderhxrzy&theme=radical&no-frame=true&margin-w=8&row=1&column=6"/>
 </div>
 
 ---
@@ -53,23 +46,14 @@
 
 ## 👤 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-```ts
-const jhayr = {
-  name: "Jhayr Cervantes",
-  location: "Philippines 🇵🇭",
-  role: "Full-Stack Developer & Creative Technologist",
-  currentFocus: [
-    "Building scalable web apps with Next.js & TypeScript",
-    "REST APIs with Laravel & Node.js",
-    "Serverless databases with NeonDB",
-  ],
-  learning: ["C / C++ systems programming", "SQL optimization", "Cloud architecture"],
-  creative: ["UI Design", "Photoshop", "Illustrator", "Video Editing"],
-  contact: "jhayrcervantes0981@gmail.com",
-  funFact: "I debug like a detective 🕵️ — every bug leaves clues.",
-};
-```
+- 🌍 Based in the **Philippines** 🇵🇭
+- 💻 Building full-stack apps with **Next.js, TypeScript, Laravel & Node.js**
+- 🗄️ Working with **NeonDB, PostgreSQL & MySQL**
+- 🎨 UI & vector design using **Photoshop & Illustrator**
+- 🎬 Video editing with **Filmora & CapCut**
+- 🌱 Learning **C / C++ systems programming & SQL optimization**
+- 💬 Ask me about `PHP` `Java` `C/C++` `React` `Next.js` `TypeScript` `Laravel`
+- 📧 **jhayrcervantes0981@gmail.com**
 
 ---
 
@@ -133,24 +117,18 @@ const jhayr = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 Quote
-
-<div align="center">
+## 💡 Fun Fact
 
 > *"I debug like a detective 🕵️ — every bug leaves clues."*
 
-</div>
-
 ---
 
-<!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" width="100%"/>
 </div>
