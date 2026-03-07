@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=220&section=header&text=Jhayr%20Cervantes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=&descAlignY=55&descSize=18" width="100%"/>
+</div>
 <!-- Typing Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=Hi!+I'm+Jhayr+Cervantes+👋;Full-Stack+Developer+%7C+Software+Engineer;TypeScript+%7C+Next.js+%7C+React+%7C+Laravel;Node.js+%7C+NeonDB+%7C+PHP+%7C+Java;Code.+Design.+Innovate.+🚀" alt="Typing SVG" />
