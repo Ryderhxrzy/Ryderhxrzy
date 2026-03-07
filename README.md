@@ -15,14 +15,14 @@
 
 <!-- ================= PROFILE COUNTERS ================= -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryderhxrzy&label=Profile%20Views&color=00F7FF&style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Ryderhxrzy&label=Profile%20Views&style=for-the-badge&color=0d1117&labelColor=0d1117"/>
   &nbsp;
   <a href="https://github.com/Ryderhxrzy?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ryderhxrzy?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0d1117"/>
+    <img src="https://img.shields.io/github/followers/Ryderhxrzy?label=Followers&style=for-the-badge&color=0d1117&labelColor=0d1117"/>
   </a>
   &nbsp;
   <a href="https://github.com/Ryderhxrzy">
-    <img src="https://img.shields.io/github/stars/Ryderhxrzy?label=Stars&style=for-the-badge&color=00F7FF&labelColor=0d1117"/>
+    <img src="https://img.shields.io/github/stars/Ryderhxrzy?label=Stars&style=for-the-badge&color=0d1117&labelColor=0d1117"/>
   </a>
 </div>
 
